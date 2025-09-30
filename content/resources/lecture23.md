@@ -4,6 +4,8 @@ description: Origin of the Process
 file: /courses/15-351-managing-the-innovation-process-fall-2002/f82664e50e11f7ca3490df49dbbdd26f_lecture23.pdf
 file_size: 73669
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

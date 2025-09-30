@@ -4,6 +4,8 @@ description: Market Changes
 file: /courses/15-351-managing-the-innovation-process-fall-2002/0e5e37404bc0451788bade49daccebe8_lecture2021.pdf
 file_size: 72400
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

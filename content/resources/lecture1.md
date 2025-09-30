@@ -5,6 +5,8 @@ description: Work Groups and Knowledge Sharing in a Global Organization [Introdu
 file: /courses/15-351-managing-the-innovation-process-fall-2002/6d697a88ccd4efbee4035a05b7f11c8f_lecture1.pdf
 file_size: 115409
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
