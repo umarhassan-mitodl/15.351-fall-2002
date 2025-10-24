@@ -5,8 +5,6 @@ description: 'Reflection Exercise: Lecture 23, 22 -- Standards, Patents, and Ope
 file: /courses/15-351-managing-the-innovation-process-fall-2002/190af08d84fe19cafa7e30913b24fa5b_assignment2324.pdf
 file_size: 11998
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

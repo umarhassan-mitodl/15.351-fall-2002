@@ -4,8 +4,6 @@ description: 'Reflection Exercise: Lecture 8,9 -- Cross-Functionality'
 file: /courses/15-351-managing-the-innovation-process-fall-2002/f969442bbcff608a541dab14d921cb2c_assignment89.pdf
 file_size: 20161
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

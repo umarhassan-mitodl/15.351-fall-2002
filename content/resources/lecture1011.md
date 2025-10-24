@@ -4,8 +4,6 @@ description: Geographic Dispersion
 file: /courses/15-351-managing-the-innovation-process-fall-2002/90e16d787245d8c4e0bdfe442c0deff0_lecture1011.pdf
 file_size: 73257
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
